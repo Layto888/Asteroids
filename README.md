@@ -1,2 +1,2 @@
 # Asteroids
-Asteroid atari game with python and pygame
+Asteroid Atari game demo made with python and pygame, to test and improve the Laylib framwork. 
