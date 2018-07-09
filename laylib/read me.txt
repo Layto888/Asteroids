@@ -1,0 +1,5 @@
+Some util functions for rapid prototyping 2d game with pygame.
+Author : A.Amine
+Version 1.0.2
+
+Date : 07/06/2018

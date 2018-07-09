@@ -1,0 +1,31 @@
+{
+    "fntList": [
+        ["Rockout.otf", 18],
+        ["fixedsys.ttf", 40],
+	["fixedsys.ttf", 15],
+	["fixedsys.ttf", 18]
+       
+    ],
+    "imgList": [
+        "asteroidb1.png",
+        "asteroidb2.png",
+        "asteroidb3.png",
+        "asteroidm1.png",
+        "asteroidm2.png",
+        "asteroidm3.png",
+        "asteroids1.png",
+        "asteroids1.png",
+        "asteroids3.png",
+        "ship.png",
+        "bullet.png",
+        "thruster.png"
+    ],
+    "sndList": [
+        ["fire.ogg", 0.1],["thrust.ogg", 0.2], ["boom.ogg", 0.4]
+        
+    ],
+    "mscList": {
+        
+    }
+
+}
